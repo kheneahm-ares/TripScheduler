@@ -1,0 +1,9 @@
+.vscode
+bin
+obj
+*.db
+Logs
+appsettings.json
+API/appsettings.Development.json
+wwwroot
+publish
